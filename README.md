@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, my name is Victor
-![](https://github.com/victor-ff)
+![](https://github.com/victor2f)
 
 
 Skills: PYTHON
@@ -27,14 +27,14 @@ Skills: PYTHON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/victor-ff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/filipevictorferreira/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor2f)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-ff&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=victor2f&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=victor-ff)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=victor2f)  
 
-![GitHub metrics](https://metrics.lecoq.io/victor-ff)  
+![GitHub metrics](https://metrics.lecoq.io/victor2f)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=victor-ff)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=vvictor2f)  
 
-![Profile views](https://gpvc.arturio.dev/victor-ff)  
+![Profile views](https://gpvc.arturio.dev/victor2f)  
