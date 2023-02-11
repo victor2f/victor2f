@@ -25,9 +25,9 @@ Skills: PYTHON
 - ⚡ Fun fact: On average, a four-year-old asks more than four hundred questions a day. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/victor-ff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/filipevictorferreira/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/victor2f) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/filipevictorferreira/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor2f)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor2f)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=victor2f&show_icons=true&count_private=true)  
 
