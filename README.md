@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 **Connect with me ...**
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipevictorferreira/)
-[![](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/victor2f)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipevictorferreira/)
+[![](https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor2f)
 
 
 <!--[![](https://github-readme-stats.vercel.app/api?username=victor2f&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
