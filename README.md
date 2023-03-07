@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### "to infinity and beyond"
 
-![](https://i.redd.it/snoovatar/avatars/3ee24024-50bc-422e-88e2-fb48977baa58.png)
+
 
 - 🔭 I’m currently working on this page. 
 
